@@ -50,6 +50,6 @@ ROS and Unity have now sucessfully connected!
 
 
 ## TODO
-- [] Trajectory planner for picking up the cube and place it on the goal.
-- [] Integration with ur_rtde and UR offline simulator. 
-- [] Integration with real robot. 
+- Trajectory planner for picking up the cube and place it on the goal.
+- Integration with ur_rtde and UR offline simulator. 
+- Integration with real robot. 
