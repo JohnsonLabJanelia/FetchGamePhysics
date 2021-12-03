@@ -8,8 +8,8 @@ This repo is built upon [FetchGame](https://github.com/JohnsonLabJanelia/FetchGa
 ## Installation Instruction 
 0. Clone the repo 
 1. Preparing ROS environment
-3. Preparing Unity 
-4. Running the game 
+2. Preparing Unity 
+3. Running the game 
 
 ### Clone the game 
 ```
@@ -27,4 +27,13 @@ sudo apt-get install python3-pip ros-noetic-robot-state-publisher ros-noetic-mov
 sudo -H pip3 install rospkg jsonpickle
 ```
 3. Copy folders in `FetchGamePhysics/ROS/src/*` into catkin workspace. 
-4. 
+4. Built and sourced the ROS workspace, `catkin_make && source devel/setup.bash`. 
+
+### Preparing Unity 
+Open the FetchArenaProject in Unity. The **SampleScene** with robot should automatically load. Check if you have these packages installed.
+![Package Manager](https://github.com/JohnsonLabJanelia/FetchGamePhysics/blob/main/images/rig_room.png)
+
+
+
+
+The game is currently tested with publishing the robot state and 
