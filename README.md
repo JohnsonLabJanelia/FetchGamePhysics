@@ -49,4 +49,7 @@ ROS and Unity have now sucessfully connected!
 ![UnityRosIntegration](https://github.com/JohnsonLabJanelia/FetchGamePhysics/blob/main/images/package_manager.png)
 
 
-
+## TODO
+- [] Trajectory planner for picking up the cube and place it on the goal.
+- [] Integration with ur_rtde and UR offline simulator. 
+- [] Integration with real robot. 
