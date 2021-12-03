@@ -46,7 +46,7 @@ roslaunch ur_moveit part_2.launch
 ```
 2. Return to Unity, and press play. Click the UI `Publish` Button in the Game view. 
 ROS and Unity have now sucessfully connected! 
-![UnityRosIntegration](https://github.com/JohnsonLabJanelia/FetchGamePhysics/blob/main/images/package_manager.png)
+![RosUnityIntegration](https://github.com/JohnsonLabJanelia/FetchGamePhysics/blob/main/images/RosUnityIntegration.png)
 
 
 ## TODO
