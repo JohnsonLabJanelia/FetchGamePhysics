@@ -30,16 +30,17 @@ sudo -H pip3 install rospkg jsonpickle
 4. Built and sourced the ROS workspace, `catkin_make && source devel/setup.bash`. 
 
 ### Preparing Unity 
-1. Open the FetchArenaProject in Unity. The **SampleScene** with robot should automatically load. If you want to know how the scene is assembled, please check [Setting up the Unity Scene](https://github.com/Unity-Technologies/Unity-Robotics-Hub/blob/main/tutorials/pick_and_place/1_urdf.md). 
+1. Open the FetchArenaProject in Unity. The **SampleScene** with robot should automatically load. If you want to know how the scene is assembled, please check [Setting up the Unity Scene](https://github.com/Unity-Technologies/Unity-Robotics-Hub/blob/main/tutorials/pick_and_place/1_urdf.md). Check if you have correct packages installed. 
 
-Check if you have correct packages installed:
 ![Package Manager](https://github.com/JohnsonLabJanelia/FetchGamePhysics/blob/main/images/package_manager.png)
 
 The game uses *The Universal Render Pipeline*, and new physics solver `Temporal Gauss Seidel`.  
 
+
 2. The game has been tested on publishing the robot state, target pose, and target placement pose to ROS. Select Publisher game object in the Hierarchy view, check `Source Destination Publisher`, and uncheck `Trajectory Planner` (currently in deve). Please refer to [SourceDestinationPublisher](https://github.com/Unity-Technologies/Unity-Robotics-Hub/blob/main/tutorials/pick_and_place/2_ros_tcp.md) if you want to know how `Source Destination Publisher` works. 
 
-3. Select `Button` game object in Hierarchy view under `Canvas`. In the `Inspector` view, `On click ()`, switch to `SourceDestinationPublisher.Publish`
+3. Select `Button` game object in Hierarchy view under `Canvas`. In the `Inspector` view, `On click ()`, switch to `SourceDestinationPublisher.Publish`. 
+
 ![UI_setup](https://github.com/JohnsonLabJanelia/FetchGamePhysics/blob/main/images/UI_setup.png)
 
 
@@ -51,6 +52,7 @@ roslaunch ur_moveit part_2.launch
 ```
 2. Return to Unity, and press play. Click the UI `Publish` Button in the Game view. 
 ROS and Unity have now sucessfully connected! 
+
 ![RosUnityIntegration](https://github.com/JohnsonLabJanelia/FetchGamePhysics/blob/main/images/RosUnityIntegration.png)
 
 
