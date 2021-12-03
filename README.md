@@ -11,8 +11,10 @@ This repo is built upon [FetchGame](https://github.com/JohnsonLabJanelia/FetchGa
 3. Preparing Unity 
 4. Running the game 
 
-### Clone the repo 
-
+### Clone the game 
+```
+git clone --recurse-submodules https://github.com/JohnsonLabJanelia/FetchGamePhysics.git
+```
 
 ### Preparing ROS environment 
 The repo is tested with [ROS NOETIC](http://wiki.ros.org/noetic) on Ubuntu 20.04. We are planning on release a docker image for the game in the future. But for development purpose, it is better to have a local ros workspace. Adapted from O[ption B: Manual Setup] (https://github.com/Unity-Technologies/Unity-Robotics-Hub/blob/main/tutorials/pick_and_place/0_ros_setup.md). 
@@ -24,5 +26,5 @@ The repo is tested with [ROS NOETIC](http://wiki.ros.org/noetic) on Ubuntu 20.04
 sudo apt-get install python3-pip ros-noetic-robot-state-publisher ros-noetic-moveit ros-noetic-rosbridge-suite ros-noetic-joy ros-noetic-ros-control ros-noetic-ros-controllers
 sudo -H pip3 install rospkg jsonpickle
 ```
-3. Copy the `ROS/src/*` from the repo into catkin workspace. 
+3. Copy folders in `FetchGamePhysics/ROS/src/*` into catkin workspace. 
 4. 
