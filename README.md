@@ -57,7 +57,7 @@ ROS and Unity have now sucessfully connected!
 
 
 ### NEW Pick and place demo
-![pick_place](https://github.com/JohnsonLabJanelia/FetchGamePhysics/blob/main/images/pick_and_place_demo.gif)
+![pick_place](https://github.com/JohnsonLabJanelia/FetchGamePhysics/blob/main/images/pick_and_place.gif)
 
 
 ## TODO
