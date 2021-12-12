@@ -56,6 +56,10 @@ ROS and Unity have now sucessfully connected!
 ![RosUnityIntegration](https://github.com/JohnsonLabJanelia/FetchGamePhysics/blob/main/images/RosUnityIntegration.png)
 
 
+### NEW Pick and place demo
+![pick_place](https://github.com/JohnsonLabJanelia/FetchGamePhysics/blob/main/images/pick_and_place_demo.gif)
+
+
 ## TODO
 - Trajectory planner for picking up the cube and place it on the goal.
 - Integration with ur_rtde and UR offline simulator. 
