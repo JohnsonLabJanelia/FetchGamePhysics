@@ -5,11 +5,12 @@
 
 This repo is built upon [FetchGame](https://github.com/JohnsonLabJanelia/FetchGame). Many inspirations are taken from [Unity-Robotics-Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub), especially the [Pick-and-Place Tutorial](https://github.com/Unity-Technologies/Unity-Robotics-Hub/blob/main/tutorials/pick_and_place/README.md) and [Object Pose Estimation Tutorial](https://github.com/Unity-Technologies/Robotics-Object-Pose-Estimation). A basic familiarity on these two tutorials and [ROS Tutorial](http://wiki.ros.org/ROS/Tutorials) would help better working with FetchGamePhysics.  
 
-
+---
+Table of contents
   - [Part 1: Installation Instruction](#part-1-installation-instruction)
   - [Part 2: ROS–Unity Integration](#part-2-rosunity-integration)
   - [Part 3: Pick-and-Place In Unity](#part-3-pick-and-place-in-unity)
-
+---
 
 ## [Part 1: Installation Instruction](1_installation_instruction.md)
 
