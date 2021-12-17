@@ -52,7 +52,7 @@ The game uses *The Universal Render Pipeline*, and new physics solver `Temporal 
 ![UI_setup](https://github.com/JohnsonLabJanelia/FetchGamePhysics/blob/main/images/UI_setup.png)
 
 
-## [Part 2: ROS–Unity Integration](ROS-Unity Integration.md)
+## [Part 2: ROS–Unity Integration](2_ros_unity_integration.md)
 
 ### Running the game 
 1. Open a terminal window in the ROS `catkin` workspace. Then run the following command 
