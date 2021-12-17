@@ -25,7 +25,7 @@ Table of contents
 
 
 ## [Part 3: Pick-and-Place In Unity](3_pick_and_place.md)
-
+<img src="images/pick_and_place.gif " width="400"/>
 
 
 ## TODO
