@@ -1,5 +1,7 @@
 # FetchGamePhysics
-![Digital Twin](https://github.com/JohnsonLabJanelia/FetchGamePhysics/blob/main/images/rig_room.png)
+
+![pick_place](https://github.com/JohnsonLabJanelia/FetchGamePhysics/blob/main/images/pick_and_place.gif)
+
 
 
 ## Getting Started 
@@ -40,7 +42,11 @@ sudo -H pip3 install rospkg jsonpickle
 4. Built and sourced the ROS workspace, `catkin_make && source devel/setup.bash`. 
 
 ### Preparing Unity 
-1. Open the FetchArenaProject in Unity. The **SampleScene** with robot should automatically load. If you want to know how the scene is assembled, please check [Setting up the Unity Scene](https://github.com/Unity-Technologies/Unity-Robotics-Hub/blob/main/tutorials/pick_and_place/1_urdf.md). Check if you have correct packages installed. 
+1. Open the FetchArenaProject in Unity. The **SampleScene** with robot should automatically load. 
+![Digital Twin](https://github.com/JohnsonLabJanelia/FetchGamePhysics/blob/main/images/rig_room.png)
+ 
+
+4. If you want to know how the scene is assembled, please check [Setting up the Unity Scene](https://github.com/Unity-Technologies/Unity-Robotics-Hub/blob/main/tutorials/pick_and_place/1_urdf.md). Check if you have correct packages installed. 
 
 ![Package Manager](https://github.com/JohnsonLabJanelia/FetchGamePhysics/blob/main/images/package_manager.png)
 
@@ -70,7 +76,6 @@ ROS and Unity have now sucessfully connected!
 
 
 ### NEW Pick and place demo
-![pick_place](https://github.com/JohnsonLabJanelia/FetchGamePhysics/blob/main/images/pick_and_place.gif)
 
 
 ## TODO
