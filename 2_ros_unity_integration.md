@@ -3,7 +3,7 @@
 **Table of Contents**
   - [The Unity Side](#the-unity-side)
   - [The ROS side](#the-ros-side)
-  - [Running the game](#running-the-game)
+  - [Run the game](#running-the-game)
 
 ## The Unity Side
 
@@ -21,7 +21,7 @@ Open a terminal window in the ROS `catkin` workspace. Then run the following com
 roslaunch ur_moveit part_2.launch
 ```
 
-## Running the game
+## Run the game
 Return to Unity, and press play. Click the UI `Publish` Button in the Game view. ROS and Unity have now sucessfully connected! 
 
 ![RosUnityIntegration](https://github.com/JohnsonLabJanelia/FetchGamePhysics/blob/main/images/RosUnityIntegration.png)
