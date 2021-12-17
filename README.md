@@ -22,15 +22,7 @@ This repo is built upon [FetchGame](https://github.com/JohnsonLabJanelia/FetchGa
 
 ## [Part 2: ROS–Unity Integration](2_ros_unity_integration.md)
 
-### Running the game 
-1. Open a terminal window in the ROS `catkin` workspace. Then run the following command 
-```
-roslaunch ur_moveit part_2.launch
-```
-2. Return to Unity, and press play. Click the UI `Publish` Button in the Game view. 
-ROS and Unity have now sucessfully connected! 
 
-![RosUnityIntegration](https://github.com/JohnsonLabJanelia/FetchGamePhysics/blob/main/images/RosUnityIntegration.png)
 
 ## [Part 3: Pick-and-Place In Unity](3_pick_and_place.md)
 
