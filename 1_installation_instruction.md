@@ -1,17 +1,10 @@
 # Installation Instruction 
 
 **Table of Contents**
-  - [Clone the game](#clone-the-game)
   - [Prepare ROS environment](#preparing-ros-environment)
   - [Prepare Unity ](#preparing-unity)
 
 ---
-
-
-## Clone the game 
-```
-git clone --recurse-submodules https://github.com/JohnsonLabJanelia/FetchGamePhysics.git
-```
 
 ## Prepare ROS environment 
 The repo is tested with [ROS NOETIC](http://wiki.ros.org/noetic) on Ubuntu 20.04. We are planning on release a docker image for the game in the future. But for development purpose, it is better to have a local ros workspace. Adapted from O[ption B: Manual Setup](https://github.com/Unity-Technologies/Unity-Robotics-Hub/blob/main/tutorials/pick_and_place/0_ros_setup.md). 
