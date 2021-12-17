@@ -10,7 +10,7 @@
 
 ## The Unity side
 
-1. The game has been tested on publishing the robot state, target pose, and target placement pose to ROS. Select Publisher game object in the Hierarchy view, check `Trajectory Planner`, and uncheck `Source Destination Publisher`. Please refer to [TrajectoryPlanner ](https://github.com/Unity-Technologies/Unity-Robotics-Hub/blob/main/tutorials/pick_and_place/3_pick_and_place.md) if you want to know how `Trajectory Planner` works. 
+1. Select Publisher game object in the Hierarchy view, check `Trajectory Planner`, and uncheck `Source Destination Publisher`. Please refer to [TrajectoryPlanner ](https://github.com/Unity-Technologies/Unity-Robotics-Hub/blob/main/tutorials/pick_and_place/3_pick_and_place.md) if you want to know how `Trajectory Planner` works. 
 
 2. Select `Button` game object in Hierarchy view under `Canvas`. In the `Inspector` view, `On click ()`, switch to `TrajectoryPlanner.PublishJoints()`. 
 
