@@ -14,7 +14,7 @@ Table of contents
 
 ## [Part 1: Installation Instruction](1_installation_instruction.md)
 
-<img src="images/package_manager.png" width="400")
+<img src="images/package_manager.png" width="400"/>
 
 
 
