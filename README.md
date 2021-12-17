@@ -20,6 +20,7 @@ Table of contents
 
 
 ## [Part 2: ROS–Unity Integration](2_ros_unity_integration.md)
+<img src="images/RosUnityIntegration.png " width="400"/>
 
 
 
