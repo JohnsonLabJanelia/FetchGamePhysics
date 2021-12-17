@@ -4,3 +4,14 @@
 3. Select `Button` game object in Hierarchy view under `Canvas`. In the `Inspector` view, `On click ()`, switch to `SourceDestinationPublisher.Publish`. 
 
 ![UI_setup](https://github.com/JohnsonLabJanelia/FetchGamePhysics/blob/main/images/UI_setup.png)
+
+
+### Running the game 
+1. Open a terminal window in the ROS `catkin` workspace. Then run the following command 
+```
+roslaunch ur_moveit part_2.launch
+```
+2. Return to Unity, and press play. Click the UI `Publish` Button in the Game view. 
+ROS and Unity have now sucessfully connected! 
+
+![RosUnityIntegration](https://github.com/JohnsonLabJanelia/FetchGamePhysics/blob/main/images/RosUnityIntegration.png)
