@@ -28,12 +28,12 @@ sudo -H pip3 install rospkg jsonpickle
 
 ## Preparing Unity 
 1. Open the FetchArenaProject in Unity. The **SampleScene** with robot should automatically load. If you want to know how the scene is assembled, please check [Setting up the Unity Scene](https://github.com/Unity-Technologies/Unity-Robotics-Hub/blob/main/tutorials/pick_and_place/1_urdf.md).
-![Digital Twin](https://github.com/JohnsonLabJanelia/FetchGamePhysics/blob/main/images/rig_room.png)
+![Digital Twin](images/rig_room.png)
  
 
 2. Check if you have correct packages installed. 
 
-![Package Manager](https://github.com/JohnsonLabJanelia/FetchGamePhysics/blob/main/images/package_manager.png)
+![Package Manager](images/package_manager.png)
 
 The game uses *The Universal Render Pipeline*, and new physics solver `Temporal Gauss Seidel`.  
 
