@@ -5,11 +5,19 @@
 ## Getting Started 
 This repo is built upon [FetchGame](https://github.com/JohnsonLabJanelia/FetchGame). Many inspirations are taken from [Unity-Robotics-Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub), especially the [Pick-and-Place Tutorial](https://github.com/Unity-Technologies/Unity-Robotics-Hub/blob/main/tutorials/pick_and_place/README.md) and [Object Pose Estimation Tutorial](https://github.com/Unity-Technologies/Robotics-Object-Pose-Estimation). A basic familiarity on these two tutorials and [ROS Tutorial](http://wiki.ros.org/ROS/Tutorials) would help better working with FetchGamePhysics.  
 
+
+  - [Part 0: Installation Instruction](#Installation Instruction)
+
+  - [Part 2: ROS–Unity Integration](#part-2-rosunity-integration)
+
+
 ## Installation Instruction 
 0. Clone the game 
 1. Preparing ROS environment
 2. Preparing Unity 
 3. Running the game 
+
+
 
 ### Clone the game 
 ```
@@ -44,6 +52,7 @@ The game uses *The Universal Render Pipeline*, and new physics solver `Temporal 
 ![UI_setup](https://github.com/JohnsonLabJanelia/FetchGamePhysics/blob/main/images/UI_setup.png)
 
 
+## [Part 2: ROS–Unity Integration](ROS-Unity Integration.md)
 
 ### Running the game 
 1. Open a terminal window in the ROS `catkin` workspace. Then run the following command 
