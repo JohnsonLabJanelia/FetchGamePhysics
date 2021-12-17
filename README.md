@@ -27,8 +27,6 @@ This repo is built upon [FetchGame](https://github.com/JohnsonLabJanelia/FetchGa
 ## [Part 3: Pick-and-Place In Unity](3_pick_and_place.md)
 
 
-### NEW Pick and place demo
-
 
 ## TODO
 - [x] Trajectory planner for picking up the cube and place it on the goal.
