@@ -2,7 +2,7 @@
 <package format="2">
   <name>ur_moveit</name>
   <version>0.0.0</version>
-  <description>The niryo_moveit package</description>
+  <description>The ur_moveit package</description>
 
 
   <maintainer email="unity-robotics@unity3d.com">Unity Robotics</maintainer>
@@ -45,7 +45,9 @@
   <exec_depend>moveit_msgs</exec_depend>
   <exec_depend>sensor_msgs</exec_depend>
   <exec_depend>controller_manager</exec_depend>
-  
+  <exec_depend>robotiq_2f_140_gripper_visualization</exec_depend>
+  <exec_depend>ur_description</exec_depend>
+  <exec_depend>ur_gazebo</exec_depend>
 
   <!-- The export tag contains other, unspecified, tags -->
   <export>

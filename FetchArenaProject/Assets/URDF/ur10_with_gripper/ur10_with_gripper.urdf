@@ -391,7 +391,7 @@
   <joint name="shoulder_lift_joint" type="revolute">
     <parent link="shoulder_link"/>
     <child link="upper_arm_link"/>
-    <origin rpy="0.0 1.5707963267948966 0.0" xyz="0.0 0.220941 0.0"/>
+    <origin rpy="0.0 0.0 0.0" xyz="0.0 0.220941 0.0"/>
     <axis xyz="0 1 0"/>
     <limit effort="330.0" lower="-3.141592653589793" upper="3.141592653589793" velocity="2.16"/>
     <dynamics damping="0.0" friction="0.0"/>
@@ -645,7 +645,7 @@
     <parent link="world"/>
     <child link="base_link"/>
     <!-- TODO: check base_link name of robot -->
-    <origin rpy="0.0 0.0 3.141592653589793" xyz="1.653626 -0.0002509931 0.6694607"/>
+    <origin rpy="0.0 0.0 3.141592653589793" xyz="1.653626 0.0002509931 0.6694607"/>
   </joint>
 </robot>
 

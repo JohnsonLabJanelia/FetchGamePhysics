@@ -58,6 +58,7 @@ public class TrajectoryPlanner : MonoBehaviour
 
 
         m_JointArticulationBodies = new ArticulationBody[k_NumRobotJoints];
+        
         string shoulder_link = "world/base_link/shoulder_link";
         m_JointArticulationBodies[0] = m_UrOne.transform.Find(shoulder_link).GetComponent<ArticulationBody>();
 
@@ -76,6 +77,7 @@ public class TrajectoryPlanner : MonoBehaviour
         string hand_link = wrist_link + "/wrist_3_link";
         m_JointArticulationBodies[5] = m_UrOne.transform.Find(hand_link).GetComponent<ArticulationBody>();
 
+        //Debug.Log("find joints: ", m_JointArticulationBodies[0]);
         // this command doesn't work, don't understand what's this for. it is in the PoseEstimation Tutorial
         //articulationChain = m_UrOne.GetComponent<RosSharp.Control.Controller>().GetComponentsInChildren<ArticulationBody>();
 
@@ -116,7 +118,6 @@ public class TrajectoryPlanner : MonoBehaviour
     UR10MoveitJointsMsg CurrentJointConfig()
     {
         var joints = new UR10MoveitJointsMsg();
-
         for (var i = 0; i < k_NumRobotJoints; i++)
         {
             joints.joints[i] = m_JointArticulationBodies[i].jointPosition[0];

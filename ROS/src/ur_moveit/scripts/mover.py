@@ -20,7 +20,8 @@ from moveit_commander.conversions import pose_to_list
 
 from ur_moveit.srv import MoverService, MoverServiceRequest, MoverServiceResponse
 
-joint_names = ['joint_1', 'joint_2', 'joint_3', 'joint_4', 'joint_5', 'joint_6']
+#joint_names = ['joint_1', 'joint_2', 'joint_3', 'joint_4', 'joint_5', 'joint_6']
+joint_names = ['shoulder_pan_joint', 'shoulder_lift_joint', 'elbow_joint', 'wrist_1_joint', 'wrist_2_joint', 'wrist_3_joint']
 
 # Between Melodic and Noetic, the return type of plan() changed. moveit_commander has no __version__ variable, so checking the python version as a proxy
 if sys.version_info >= (3, 0):
@@ -76,9 +77,12 @@ def plan_pick_and_place(req):
     move_group = moveit_commander.MoveGroupCommander(group_name)
 
     current_robot_joint_configuration = req.joints_input.joints
+    print(current_robot_joint_configuration);
 
     # Pre grasp - position gripper directly above target object
-    pre_grasp_pose = plan_trajectory(move_group, req.pick_pose, current_robot_joint_configuration)
+    pre_grasp_loc = copy.deepcopy(req.pick_pose)
+    pre_grasp_loc.position.z += 0.25
+    pre_grasp_pose = plan_trajectory(move_group, pre_grasp_loc, current_robot_joint_configuration)
     
     # If the trajectory has no points, planning has failed and we return an empty response
     if not pre_grasp_pose.joint_trajectory.points:
@@ -88,7 +92,7 @@ def plan_pick_and_place(req):
 
     # Grasp - lower gripper so that fingers are on either side of object
     pick_pose = copy.deepcopy(req.pick_pose)
-    pick_pose.position.z -= 0.05  # Static value coming from Unity, TODO: pass along with request
+    pick_pose.position.z += 0.08  # Static value coming from Unity, TODO: pass along with request
     grasp_pose = plan_trajectory(move_group, pick_pose, previous_ending_joint_angles)
     
     if not grasp_pose.joint_trajectory.points:
@@ -97,7 +101,7 @@ def plan_pick_and_place(req):
     previous_ending_joint_angles = grasp_pose.joint_trajectory.points[-1].positions
 
     # Pick Up - raise gripper back to the pre grasp position
-    pick_up_pose = plan_trajectory(move_group, req.pick_pose, previous_ending_joint_angles)
+    pick_up_pose = plan_trajectory(move_group, pick_pose, previous_ending_joint_angles)
     
     if not pick_up_pose.joint_trajectory.points:
         return response
@@ -105,7 +109,9 @@ def plan_pick_and_place(req):
     previous_ending_joint_angles = pick_up_pose.joint_trajectory.points[-1].positions
 
     # Place - move gripper to desired placement position
-    place_pose = plan_trajectory(move_group, req.place_pose, previous_ending_joint_angles)
+    place_pose_mod = copy.deepcopy(req.place_pose)
+    place_pose_mod.position.z += 0.2  # Static value coming from Unity, TODO: pass along with request
+    place_pose = plan_trajectory(move_group, place_pose_mod, previous_ending_joint_angles)
 
     if not place_pose.joint_trajectory.points:
         return response

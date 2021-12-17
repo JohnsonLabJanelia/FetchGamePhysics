@@ -1,7 +1,9 @@
 cmake_minimum_required(VERSION 3.0.2)
 project(ur_moveit)
 
+
 find_package(catkin REQUIRED COMPONENTS
+  roscpp
   rospy
   std_msgs
   geometry_msgs
@@ -12,6 +14,7 @@ find_package(catkin REQUIRED COMPONENTS
   controller_manager
   roslaunch
   trajectory_msgs
+  pluginlib
 )
 roslaunch_add_file_check(launch)
 
