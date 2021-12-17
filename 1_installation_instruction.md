@@ -1,5 +1,13 @@
 # Installation Instruction 
 
+**Table of Contents**
+  - [Clone the game](#clone-the-game)
+  - [Preparing ROS environment](#preparing-ros-environment)
+  - [Preparing Unity ](#preparing-unity)
+
+---
+
+
 ## Clone the game 
 ```
 git clone --recurse-submodules https://github.com/JohnsonLabJanelia/FetchGamePhysics.git
