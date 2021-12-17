@@ -28,5 +28,6 @@ This repo is built upon [FetchGame](https://github.com/JohnsonLabJanelia/FetchGa
 
 ## TODO
 - [x] Trajectory planner for picking up the cube and place it on the goal.
+- [ ] Integrate three robots, working tables, ramp to complete the scene.
 - [ ] Integration with ur_rtde and UR offline simulator. 
 - [ ] Integration with real robot. 
