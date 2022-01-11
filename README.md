@@ -1,9 +1,9 @@
 # FetchGamePhysics
 
-Experimentor View
+**Experimentor View**
 ![three_robots](images/image_exp_view.png)
 
-Ceiling Camera
+**Ceiling Camera**
 ![three_robots](images/ceiling_view.png)
 
 
