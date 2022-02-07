@@ -35,5 +35,5 @@ Table of contents
 ## TODO
 - [x] Trajectory planner for picking up the cube and place it on the goal.
 - [x] Integrate three robots, working tables, ramp to complete the scene.
-- [ ] Integration with ur_rtde and UR offline simulator. 
+- [x] Integration with ur_rtde and UR offline simulator. 
 - [ ] Integration with real robot. 
