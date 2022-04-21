@@ -40,7 +40,8 @@ Note, skip Part 2 and Part 3 if you are only interested in Reinforcement learnin
 - [x] Trajectory planner for picking up the cube and place it on the goal.
 - [x] Integrate three robots, working tables, ramp to complete the scene.
 - [x] Integration with ur_rtde and UR offline simulator. 
-- [ ] Integration with real robot. 
+- [ ] Calibration and integration with real robot.
+- [ ] Game release 
 
 ## Acknowledgement
 - Jinyao Yan 
