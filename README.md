@@ -18,6 +18,8 @@ Table of contents
   - [Part 3: Pick-and-Place In Unity](#part-3-pick-and-place-in-unity)
 ---
 
+Note, skip Part 2 and Part 3 if you are only interested in Reinforcement learning agent training with this environment. 
+
 ## [Part 1: Installation Instruction](1_installation_instruction.md)
 
 <img src="images/package_manager.png" width="400"/>
