@@ -1,0 +1,44 @@
+{
+    "obstacle_scale_vs_ramp": {
+        "lesson_num": 4
+    },
+    "ball_fetched_threshold": {
+        "lesson_num": 4
+    },
+    "FetchGamePhysics": {
+        "checkpoints": [
+            {
+                "steps": 999962,
+                "file_path": "FetchGamePhysics\\FetchArenaProject\\Assets\\Results\\ObstacleTest04\\FetchGamePhysics\\FetchGamePhysics-999962.onnx",
+                "reward": 0.49232839128145806,
+                "creation_time": 1653516921.8307312,
+                "auxillary_file_paths": [
+                    "FetchGamePhysics\\FetchArenaProject\\Assets\\Results\\ObstacleTest04\\FetchGamePhysics\\FetchGamePhysics-999962.pt"
+                ]
+            },
+            {
+                "steps": 1045693,
+                "file_path": "FetchGamePhysics\\FetchArenaProject\\Assets\\Results\\ObstacleTest04\\FetchGamePhysics\\FetchGamePhysics-1045693.onnx",
+                "reward": 0.5260546094760662,
+                "creation_time": 1653516975.7400978,
+                "auxillary_file_paths": [
+                    "FetchGamePhysics\\FetchArenaProject\\Assets\\Results\\ObstacleTest04\\FetchGamePhysics\\FetchGamePhysics-1045693.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1045693,
+            "file_path": "FetchGamePhysics\\FetchArenaProject\\Assets\\Results\\ObstacleTest04\\FetchGamePhysics.onnx",
+            "reward": 0.5260546094760662,
+            "creation_time": 1653516975.7400978,
+            "auxillary_file_paths": [
+                "FetchGamePhysics\\FetchArenaProject\\Assets\\Results\\ObstacleTest04\\FetchGamePhysics\\FetchGamePhysics-1045693.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
