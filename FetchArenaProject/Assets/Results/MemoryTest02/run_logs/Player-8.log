@@ -1,0 +1,2854 @@
+Mono path[0] = 'C:/Users/kryst/JohnsonLab/FetchGamePhysics/FetchArenaProject/Builds/MemoryTest/rig_room_Data/Managed'
+Mono config path = 'C:/Users/kryst/JohnsonLab/FetchGamePhysics/FetchArenaProject/Builds/MemoryTest/MonoBleedingEdge/etc'
+Initialize engine version: 2020.3.23f1 (c5d91304a876)
+[Subsystems] Discovering subsystems at path C:/Users/kryst/JohnsonLab/FetchGamePhysics/FetchArenaProject/Builds/MemoryTest/rig_room_Data/UnitySubsystems
+Forcing GfxDevice: Null
+GfxDevice: creating device client; threaded=0
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.219 seconds
+ERROR: Shader Hidden/Universal Render Pipeline/Blit shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/CopyDepth shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/ScreenSpaceShadows shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/Sampling shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/LutBuilderLdr shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/LutBuilderHdr shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/UberPost shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/StencilDeferred' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Hidden/Universal Render Pipeline/StencilDeferred shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/StencilDeferred' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Hidden/Universal Render Pipeline/Stop NaN shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/SubpixelMorphologicalAntialiasing shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/GaussianDepthOfField shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/BokehDepthOfField shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/CameraMotionBlur shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/PaniniProjection shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/Bloom shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/FinalPost shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Sprites/Default shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Microsoft Media Foundation video decoding to texture disabled: graphics device is Null, only Direct3D 11 and Direct3D 12 (only on desktop) are supported for hardware-accelerated video decoding.
+ERROR: Shader Sprites/Mask shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Legacy Shaders/Particles/Alpha Blended Premultiply shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Autodesk Interactive/Autodesk Interactive' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Universal Render Pipeline/Autodesk Interactive/Autodesk Interactive shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Autodesk Interactive/Autodesk Interactive' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Simple Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Universal Render Pipeline/Simple Lit shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Simple Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Universal Render Pipeline/Lit shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader GUI/Text Shader shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+UnloadTime: 11.278500 ms
+Fallback handler could not load library C:/Users/kryst/JohnsonLab/FetchGamePhysics/FetchArenaProject/Builds/MemoryTest/rig_room_Data/Mono/libcoreclr.so
+Fallback handler could not load library C:/Users/kryst/JohnsonLab/FetchGamePhysics/FetchArenaProject/Builds/MemoryTest/rig_room_Data/Mono/libcoreclr.so.dll
+Fallback handler could not load library C:/Users/kryst/JohnsonLab/FetchGamePhysics/FetchArenaProject/Builds/MemoryTest/rig_room_Data/Mono/libcoreclr.so
+Fallback handler could not load library C:/Users/kryst/JohnsonLab/FetchGamePhysics/FetchArenaProject/Builds/MemoryTest/rig_room_Data/Mono/libdl.so
+Fallback handler could not load library C:/Users/kryst/JohnsonLab/FetchGamePhysics/FetchArenaProject/Builds/MemoryTest/rig_room_Data/Mono/libdl.so.dll
+Fallback handler could not load library C:/Users/kryst/JohnsonLab/FetchGamePhysics/FetchArenaProject/Builds/MemoryTest/rig_room_Data/Mono/libdl.so
+Fallback handler could not load library C:/Users/kryst/JohnsonLab/FetchGamePhysics/FetchArenaProject/Builds/MemoryTest/rig_room_Data/Mono/libSystem.dylib
+Fallback handler could not load library C:/Users/kryst/JohnsonLab/FetchGamePhysics/FetchArenaProject/Builds/MemoryTest/rig_room_Data/Mono/libSystem.dylib.dll
+Fallback handler could not load library C:/Users/kryst/JohnsonLab/FetchGamePhysics/FetchArenaProject/Builds/MemoryTest/rig_room_Data/Mono/libSystem.dylib
+Fallback handler could not load library C:/Users/kryst/JohnsonLab/FetchGamePhysics/FetchArenaProject/Builds/MemoryTest/rig_room_Data/Mono/libcoreclr.so
+Fallback handler could not load library C:/Users/kryst/JohnsonLab/FetchGamePhysics/FetchArenaProject/Builds/MemoryTest/rig_room_Data/Mono/libcoreclr.so.dll
+Fallback handler could not load library C:/Users/kryst/JohnsonLab/FetchGamePhysics/FetchArenaProject/Builds/MemoryTest/rig_room_Data/Mono/libcoreclr.so
+Fallback handler could not load library C:/Users/kryst/JohnsonLab/FetchGamePhysics/FetchArenaProject/Builds/MemoryTest/rig_room_Data/Mono/libdl.so
+Fallback handler could not load library C:/Users/kryst/JohnsonLab/FetchGamePhysics/FetchArenaProject/Builds/MemoryTest/rig_room_Data/Mono/libdl.so.dll
+Fallback handler could not load library C:/Users/kryst/JohnsonLab/FetchGamePhysics/FetchArenaProject/Builds/MemoryTest/rig_room_Data/Mono/libdl.so
+Fallback handler could not load library C:/Users/kryst/JohnsonLab/FetchGamePhysics/FetchArenaProject/Builds/MemoryTest/rig_room_Data/Mono/libSystem.dylib
+Fallback handler could not load library C:/Users/kryst/JohnsonLab/FetchGamePhysics/FetchArenaProject/Builds/MemoryTest/rig_room_Data/Mono/libSystem.dylib.dll
+Fallback handler could not load library C:/Users/kryst/JohnsonLab/FetchGamePhysics/FetchArenaProject/Builds/MemoryTest/rig_room_Data/Mono/libSystem.dylib
+failed to get 100ns ticks
+FetchAgent.Initialize
+TrainingArena FetchAgent.Start
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7389514 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.738602 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7383388 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7304725 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7360858 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7371333 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7388391 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7394943 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7372988 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7380498 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7378259 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7392674 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7366412 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7392448 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7358037 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7363415 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7353163 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7356093 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7397676 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7383157 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7320847 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7363256 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7384715 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7396151 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7395382 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7381054 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7362734 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7391659 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7343722 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7388179 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7390975 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7373424 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7350721 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7285867 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7369639 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.735792 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7395699 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7390267 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7396058 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7390924 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7347569 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7394029 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena distance 0.7376307 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7388289 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7346472 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7387103 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7393693 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7356511 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7362252 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7387701 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7323838 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7374312 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7378187 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7376996 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7374747 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7384281 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7374502 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7358356 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7383056 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7386984 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7392886 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7361237 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7373193 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7388763 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7388228 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.736032 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7396448 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7335981 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7376853 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7378865 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7395918 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7364792 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7394766 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7394801 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7394908 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7384906 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.73643 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7395716 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7383301 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7361446 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7338215 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7378714 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7282895 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7353674 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7393514 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7397199 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7355974 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7382089 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7333127 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7375075 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7294116 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7368082 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7381305 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7387794 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7391891 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7389973 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7389675 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7348663 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7364592 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7361255 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7360695 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7394872 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.735175 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7371201 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7390143 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena distance 0.7385105 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7346699 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7313699 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7378495 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7396178 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7372924 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena distance 0.7365623 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7337639 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7329136 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7359026 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena distance 0.7384647 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena distance 0.7364614 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7374055 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7395988 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7394463 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7264042 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7393957 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7355015 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7355255 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7390729 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7365696 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7382656 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.734797 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7360607 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7358732 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7368317 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7321748 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7390401 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7386106 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7294353 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7388681 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7367096 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena distance 0.7397921 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7345204 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7327352 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7380648 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7387059 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7333146 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7396179 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7356185 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7346923 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7352386 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7295 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7395307 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7389012 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7377988 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7340021 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7386543 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7394205 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7330377 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7328357 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena distance 0.7374537 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7302739 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7387627 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7389641 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7374007 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7300608 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7383739 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena distance 0.7338929 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7367505 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7381439 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7377015 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7394664 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.729651 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7363874 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7373322 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7392801 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7350401 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7391188 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7369713 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7314574 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7345998 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7322252 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7373136 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena distance 0.7319155 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7392573 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7383787 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7334224 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7348742 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7393334 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7394744 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7317675 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7371913 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7345651 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7386252 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7335032 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7389151 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7355672 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7347194 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7385718 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7295923 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7386342 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7381646 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7394367 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7340943 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7344518 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7377404 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7397434 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7322316 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7393686 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.735741 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7381734 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7313261 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7383749 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7360086 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7366927 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7386423 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7367493 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7340238 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7274495 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7221255 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7389687 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.737416 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7359508 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7155225 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7372894 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7345392 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7356361 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.728402 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.737328 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7322606 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7391555 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7292517 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7388822 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7337831 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7390251 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7390915 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7386193 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.731756 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7335893 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7381437 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7362852 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7359425 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7390086 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7326625 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7238958 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7372305 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7328895 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7326554 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena distance 0.7373121 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.723321 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7301255 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.737994 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7395124 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7371474 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7395127 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7385821 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7310346 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7380418 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7386537 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena distance 0.7346868 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7345973 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7272871 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7352176 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7359487 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7354495 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7345229 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7356145 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7382182 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.73864 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7293679 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7393318 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7053922 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7265938 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7244332 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7379186 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7299358 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7335494 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7325767 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7334811 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.719277 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7396056 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7388355 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7373611 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7304995 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7270791 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.734651 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7283003 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7363872 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7311662 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7293017 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena distance 0.7343206 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7266638 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7338005 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7375867 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7247342 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7366067 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7396462 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.738591 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7035012 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7384735 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.739185 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7389426 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7230597 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7381976 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.737894 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7324709 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7351198 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7380926 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7340549 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7393601 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7343071 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7322226 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.735404 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7296026 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7301948 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7263871 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7375323 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7355796 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7248207 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7388318 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7387241 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7368815 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7225147 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7380104 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7390319 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7393824 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7364323 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7348459 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7371262 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7335278 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7291448 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7266154 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7385296 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena distance 0.737662 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7330164 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7372538 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7371071 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7314495 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7277135 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7355709 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7387236 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7392602 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7328395 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7249665 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7355393 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7283196 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7392635 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7171379 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7265086 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7284011 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.738221 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7291927 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7389171 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7391655 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.714668 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.736405 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7342409 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7355955 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7378417 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7359608 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7383458 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7397901 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7386375 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7232307 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7397953 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7270518 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.736083 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7339123 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7348313 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7389706 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7229726 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7180672 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7364292 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7287955 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7367473 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7335772 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7324618 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7361786 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7343014 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7386826 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7397021 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.731082 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7372382 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7362327 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7391514 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7340221 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.733288 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7268494 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7377052 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7381918 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7387151 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7345556 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7395846 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7392617 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7371604 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7395636 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7374518 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7308994 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.739671 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7397417 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.729941 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7370147 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.735159 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7374854 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7266298 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7378666 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7362138 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7395202 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7397264 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7373809 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7395324 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7266183 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7322158 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7348143 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7393841 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7385113 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7317952 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7384675 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7375892 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7376776 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7370138 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7389007 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7375387 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7317164 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7393519 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7278783 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7370262 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7390958 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7363097 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7355256 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7126567 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7342367 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7347568 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.726123 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7360005 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7289541 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7379713 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.717495 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7390419 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7390835 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.737785 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7341664 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena distance 0.7363948 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7373024 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7390035 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7207574 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7062479 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7374329 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7354749 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7296872 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7291738 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7358178 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7230097 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7062119 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7356853 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.736972 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7303244 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7345715 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7275792 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.736956 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7272075 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7386857 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7270529 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7371438 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7395141 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7395599 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7323768 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7259247 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7382411 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7388139 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7387622 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7332633 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7383096 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.720341 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7343861 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7395691 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7364789 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7341709 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7341934 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7386041 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7372882 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.731392 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7373347 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7348172 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7319079 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7272514 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7390802 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7366205 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7387067 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7144817 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7352591 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.728739 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7352507 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7267179 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena distance 0.7395573 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7335331 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7340529 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7313458 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7370098 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7358461 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7299807 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7333664 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7356483 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7189797 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7392766 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.72971 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena distance 0.73944 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7386475 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7309448 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7361197 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7317982 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7233158 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7389927 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7181787 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7330101 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7293316 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7019795 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7225386 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7239958 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7310505 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7354577 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7084336 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7325813 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7331232 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7372652 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7391762 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7284473 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7375026 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena distance 0.7394899 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7299057 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7368801 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7216458 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7277001 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7276531 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7354329 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7385308 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7357385 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7369134 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7293568 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7375224 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7283272 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7201849 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7361271 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7287692 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7351733 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7164366 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7127324 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.738281 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7328278 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7290756 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7358798 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7380051 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7323366 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7395369 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7374067 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7396992 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7377939 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7385897 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7356928 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7202013 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7389594 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena distance 0.7393812 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7374811 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7337301 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.737806 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7375038 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7301723 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7209728 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7349398 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7359504 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7302823 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7056729 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7291769 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7300187 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7360438 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7344676 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7361013 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.739439 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7351881 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.733914 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7214671 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7338555 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7289541 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7386754 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7249337 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7362462 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7119074 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7295957 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7220832 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7296885 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7394017 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7348467 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7320987 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7286389 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7382664 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7318136 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.738023 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7374814 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7365636 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.727945 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7386868 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7211925 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7194803 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7366052 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7363466 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7294374 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.730305 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7389413 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7393779 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7118207 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7277593 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7372886 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7231696 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7346655 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7385682 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7313371 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7367906 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7367619 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7361488 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7370052 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7385531 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7387057 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7234528 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7365294 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7390932 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7374485 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7300416 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7093565 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7335689 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7166894 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7390752 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7373096 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7380509 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7364341 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7187639 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.73276 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7276981 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7168077 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7392402 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7251456 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7366595 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7351406 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7315543 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7323655 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7360069 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7307022 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7169859 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7394369 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7343525 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7354673 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7389153 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7219437 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7382339 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7335402 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7363479 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7375542 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7073916 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7341728 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.724016 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7373453 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7172852 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7362506 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7320196 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena distance 0.7318383 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7323283 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7292106 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7363496 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7299269 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7385731 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7257755 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7342183 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7353829 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7357927 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7298194 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7263982 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7092716 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7107497 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7396145 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7308088 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7248671 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7334375 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7349745 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7365429 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7100539 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena distance 0.7367834 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7360411 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7397354 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7296002 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7245668 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7294675 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7264111 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7343604 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7366799 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7365734 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7358744 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7378672 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7326403 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7305433 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7205631 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7360125 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7331178 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.736868 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7313582 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7324061 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7362455 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7394323 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7350587 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7190716 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7314057 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7330166 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7344317 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7381887 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7371757 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7343453 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7383375 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7262223 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7241657 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7391853 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7394369 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.739043 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7390084 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7138053 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7375143 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7370046 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7387473 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7057759 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7372863 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7230009 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7166203 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7380689 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7192816 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7236651 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7220554 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7300119 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7191567 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7367854 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7391041 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7345609 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.720238 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7383801 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7182572 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7396042 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7348835 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.728493 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.70301 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7375853 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7371703 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7224088 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7397028 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.739315 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7384461 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.736279 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7316942 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7320203 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7004493 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7370423 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7353619 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7280354 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7376222 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.737264 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7188492 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7359678 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7381024 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7381107 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7139025 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7350548 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7392606 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7278062 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.729771 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7326518 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7279609 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7212325 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7370339 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7394319 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7344282 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7313442 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7371988 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.6999525 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7308907 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7017884 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7152203 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7363471 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7319762 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7222689 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7396938 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7384639 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7355285 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7282673 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7330641 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7301144 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7213823 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7356536 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7264301 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7238652 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.715337 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7345275 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7342174 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7366272 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7394085 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7172654 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7238892 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7387163 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7371701 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7324387 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.73333 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7362763 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7389403 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.734243 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7358029 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7391961 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7267458 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7311532 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7375302 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7304136 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7306411 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7380853 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7352909 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7282094 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7168099 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7361708 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7310181 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7243402 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7330685 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7291234 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7381234 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7350983 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7257975 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7279044 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7298113 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7373967 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.737242 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7356492 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.72631 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7312436 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7223935 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7309183 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7350994 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7288207 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7369502 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7368508 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7332743 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7368102 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.737092 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7138355 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7379933 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.725844 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7377448 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7272931 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7253022 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.719018 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7217261 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7359248 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.709593 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7349714 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7335727 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7264591 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7305731 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7354971 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7261757 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7351252 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena distance 0.739436 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7335407 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7336739 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7342797 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7369953 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7353346 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7181573 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7306676 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7375537 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7369413 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7297559 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7357581 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7380233 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7307603 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7380456 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7393584 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7325345 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7201208 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7288843 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7327448 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.73258 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7315623 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7188874 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7380107 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7037559 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7387727 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7243723 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7316659 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7117108 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7300818 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7176258 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7380508 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7348377 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7370282 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7393957 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7340714 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7247863 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.714242 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7374381 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7375036 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7197903 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7355351 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.734437 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7260036 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7297956 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena distance 0.7376038 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7258637 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7362466 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.72152 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.729058 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.735614 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7308887 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7246651 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7234263 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7099242 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7282929 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7373579 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7394244 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7329959 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.733144 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7222685 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7385356 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7331131 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7294288 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7359784 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7362549 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7315223 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7255763 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7092825 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7096182 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7132987 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7341526 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7342011 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7393927 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7305115 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7394053 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7358992 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7361998 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7080982 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7317316 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7039759 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7317818 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7297447 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7376502 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7392635 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7386933 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7278232 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7291351 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7382541 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7146286 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena distance 0.7347428 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7284318 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7306834 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7339343 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7083191 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.739086 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7384036 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7376834 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7356659 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7388045 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7388144 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7277721 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7293462 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7151681 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7060665 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7259771 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7392722 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.730949 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7371406 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7299421 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7340496 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7372952 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7334236 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.739693 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7367657 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7327605 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7310618 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7343515 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7394695 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7368709 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7236214 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.733647 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7092359 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7387995 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7294586 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7312738 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7386177 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7293997 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7320529 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7338365 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7124785 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7225513 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7395141 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7250829 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.734609 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7229417 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7371576 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7272537 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7379552 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7350313 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7289149 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7361385 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7341601 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7297992 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7364547 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7297851 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7260557 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.735988 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7324654 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.725437 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7390972 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7361808 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7284043 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7062376 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7326708 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7342973 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7103873 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7326698 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7387968 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7204577 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7014787 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7319853 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7275885 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7327102 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.733015 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.736786 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7323866 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7135688 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.726441 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7183979 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7260612 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7283987 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7394726 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7308024 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7361547 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7299607 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7335942 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.735553 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7280844 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7336385 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7205262 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.731479 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7363781 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7301199 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7374212 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7348862 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7337984 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7324973 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7263039 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7033057 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7345737 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7336874 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7151049 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7379369 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7189063 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7335584 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7315193 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7384748 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.733657 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7308241 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7124663 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7228001 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7394125 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7234797 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7258523 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.737353 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7392682 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7181488 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7381868 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7217686 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7280399 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7232597 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7156323 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7395643 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7341672 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7313077 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7210123 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7280393 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7338869 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7394822 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7373918 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7206158 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7280741 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7191868 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7225 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7149852 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7349389 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7395927 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7335781 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7347017 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.73697 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7187315 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7345584 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7283962 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7271677 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7227206 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7310836 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7219943 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7302836 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7180247 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.738867 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7382814 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7275535 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena distance 0.7372354 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7342802 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7261893 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7383729 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7229483 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.723296 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7361385 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7252106 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7152732 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7278624 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7364663 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7385104 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7396196 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7168753 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7375637 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7376401 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7349118 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7316974 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7008353 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7374292 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7397348 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7221463 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7209884 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7381293 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7073641 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7249837 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7311203 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7103852 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7320541 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.739031 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7368025 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7395459 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.708177 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7003176 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7346068 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.735739 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7347677 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7126304 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7241012 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7257453 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7288854 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7198088 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7243069 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7371122 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7296575 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7347524 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7147797 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7391034 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7239004 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7392431 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7237137 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7370731 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7275005 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.6982139 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7321714 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7153718 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7222884 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.739546 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.723396 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7380885 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7335154 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7373757 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7229266 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7394714 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena distance 0.7349334 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7358673 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7292814 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7367092 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7397208 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7318498 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7269236 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7300947 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7310754 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7269647 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7334619 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7189516 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7377232 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7346796 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7211663 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7383994 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7384938 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7371657 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7339969 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.736892 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7349092 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7378659 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7366064 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7364959 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7378415 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7383779 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7341577 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7306746 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7255834 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7358907 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7394942 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7242777 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7317721 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7102296 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7358922 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.6978022 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7143728 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7395565 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7368276 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7227535 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7314234 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.726179 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7397784 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7310602 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7327199 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7394287 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7272745 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7231751 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.6992399 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7095013 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7343519 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7276376 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.728081 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7283669 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7104422 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.723855 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.734089 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7356685 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7241361 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7268906 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7319382 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7305477 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7348681 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7223989 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7397022 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7051671 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7285085 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7145211 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7245958 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7203201 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7352189 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7381727 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7393371 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7250553 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7215193 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7358857 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7353509 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7362155 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7384865 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7381495 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.6986277 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7067708 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7391458 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7312115 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7356588 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7394062 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena distance 0.7326042 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.717626 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7167082 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.737558 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7229671 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7236726 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7253143 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7355283 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7379904 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7379936 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7223672 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7276399 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7216932 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7283017 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7312714 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7253299 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7249201 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7278607 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7375834 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7095042 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7313109 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7343262 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7230293 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7304546 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7346981 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena distance 0.7378902 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7386886 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.732344 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7105616 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7290861 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7109721 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7308794 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.739248 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7373711 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7365271 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7381364 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7164503 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7231831 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7203112 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.739632 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7168193 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7300829 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7285999 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7259643 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7318116 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7355245 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7240038 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7366887 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7281411 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7353209 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7061285 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.734934 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7345207 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7132719 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7364305 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7394734 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7287749 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7162424 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7242061 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7360502 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7383862 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7242928 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7171126 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7187435 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7132464 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7226139 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7301515 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7373167 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7112337 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7045497 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7341234 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7227237 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.713156 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7355527 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7273355 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7112195 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7276023 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7310844 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7032931 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7277705 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7237308 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7377232 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7286777 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7232062 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7362427 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7223677 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+Setting up 8 worker threads for Enlighten.
+  Thread -> id: 8bdc -> priority: 1 
+  Thread -> id: 75e0 -> priority: 1 
+  Thread -> id: 36c0 -> priority: 1 
+  Thread -> id: b34c -> priority: 1 
+  Thread -> id: 965c -> priority: 1 
+  Thread -> id: a258 -> priority: 1 
+  Thread -> id: b094 -> priority: 1 
+  Thread -> id: ac14 -> priority: 1 

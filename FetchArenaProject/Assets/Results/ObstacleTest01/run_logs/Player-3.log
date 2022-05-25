@@ -1,0 +1,1783 @@
+Mono path[0] = 'C:/Users/kryst/JohnsonLab/FetchGamePhysics/FetchArenaProject/Builds/ObstacleTest/rig_room_Data/Managed'
+Mono config path = 'C:/Users/kryst/JohnsonLab/FetchGamePhysics/FetchArenaProject/Builds/ObstacleTest/MonoBleedingEdge/etc'
+Initialize engine version: 2020.3.23f1 (c5d91304a876)
+[Subsystems] Discovering subsystems at path C:/Users/kryst/JohnsonLab/FetchGamePhysics/FetchArenaProject/Builds/ObstacleTest/rig_room_Data/UnitySubsystems
+Forcing GfxDevice: Null
+GfxDevice: creating device client; threaded=0
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+Begin MonoManager ReloadAssembly
+- Completed reload, in  3.963 seconds
+ERROR: Shader Hidden/Universal Render Pipeline/Blit shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/CopyDepth shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/ScreenSpaceShadows shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/Sampling shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/LutBuilderLdr shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/LutBuilderHdr shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/UberPost shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/StencilDeferred' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Hidden/Universal Render Pipeline/StencilDeferred shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/StencilDeferred' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Hidden/Universal Render Pipeline/Stop NaN shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/SubpixelMorphologicalAntialiasing shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/GaussianDepthOfField shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/BokehDepthOfField shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/CameraMotionBlur shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/PaniniProjection shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/Bloom shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Hidden/Universal Render Pipeline/FinalPost shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Sprites/Default shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Microsoft Media Foundation video decoding to texture disabled: graphics device is Null, only Direct3D 11 and Direct3D 12 (only on desktop) are supported for hardware-accelerated video decoding.
+ERROR: Shader Sprites/Mask shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Legacy Shaders/Particles/Alpha Blended Premultiply shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Simple Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Universal Render Pipeline/Simple Lit shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Simple Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Universal Render Pipeline/Lit shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Autodesk Interactive/Autodesk Interactive' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader Universal Render Pipeline/Autodesk Interactive/Autodesk Interactive shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Universal Render Pipeline/Autodesk Interactive/Autodesk Interactive' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+ERROR: Shader GUI/Text Shader shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+UnloadTime: 19.316300 ms
+Fallback handler could not load library C:/Users/kryst/JohnsonLab/FetchGamePhysics/FetchArenaProject/Builds/ObstacleTest/rig_room_Data/Mono/libcoreclr.so
+Fallback handler could not load library C:/Users/kryst/JohnsonLab/FetchGamePhysics/FetchArenaProject/Builds/ObstacleTest/rig_room_Data/Mono/libcoreclr.so.dll
+Fallback handler could not load library C:/Users/kryst/JohnsonLab/FetchGamePhysics/FetchArenaProject/Builds/ObstacleTest/rig_room_Data/Mono/libcoreclr.so
+Fallback handler could not load library C:/Users/kryst/JohnsonLab/FetchGamePhysics/FetchArenaProject/Builds/ObstacleTest/rig_room_Data/Mono/libdl.so
+Fallback handler could not load library C:/Users/kryst/JohnsonLab/FetchGamePhysics/FetchArenaProject/Builds/ObstacleTest/rig_room_Data/Mono/libdl.so.dll
+Fallback handler could not load library C:/Users/kryst/JohnsonLab/FetchGamePhysics/FetchArenaProject/Builds/ObstacleTest/rig_room_Data/Mono/libdl.so
+Fallback handler could not load library C:/Users/kryst/JohnsonLab/FetchGamePhysics/FetchArenaProject/Builds/ObstacleTest/rig_room_Data/Mono/libSystem.dylib
+Fallback handler could not load library C:/Users/kryst/JohnsonLab/FetchGamePhysics/FetchArenaProject/Builds/ObstacleTest/rig_room_Data/Mono/libSystem.dylib.dll
+Fallback handler could not load library C:/Users/kryst/JohnsonLab/FetchGamePhysics/FetchArenaProject/Builds/ObstacleTest/rig_room_Data/Mono/libSystem.dylib
+Fallback handler could not load library C:/Users/kryst/JohnsonLab/FetchGamePhysics/FetchArenaProject/Builds/ObstacleTest/rig_room_Data/Mono/libcoreclr.so
+Fallback handler could not load library C:/Users/kryst/JohnsonLab/FetchGamePhysics/FetchArenaProject/Builds/ObstacleTest/rig_room_Data/Mono/libcoreclr.so.dll
+Fallback handler could not load library C:/Users/kryst/JohnsonLab/FetchGamePhysics/FetchArenaProject/Builds/ObstacleTest/rig_room_Data/Mono/libcoreclr.so
+Fallback handler could not load library C:/Users/kryst/JohnsonLab/FetchGamePhysics/FetchArenaProject/Builds/ObstacleTest/rig_room_Data/Mono/libdl.so
+Fallback handler could not load library C:/Users/kryst/JohnsonLab/FetchGamePhysics/FetchArenaProject/Builds/ObstacleTest/rig_room_Data/Mono/libdl.so.dll
+Fallback handler could not load library C:/Users/kryst/JohnsonLab/FetchGamePhysics/FetchArenaProject/Builds/ObstacleTest/rig_room_Data/Mono/libdl.so
+Fallback handler could not load library C:/Users/kryst/JohnsonLab/FetchGamePhysics/FetchArenaProject/Builds/ObstacleTest/rig_room_Data/Mono/libSystem.dylib
+Fallback handler could not load library C:/Users/kryst/JohnsonLab/FetchGamePhysics/FetchArenaProject/Builds/ObstacleTest/rig_room_Data/Mono/libSystem.dylib.dll
+Fallback handler could not load library C:/Users/kryst/JohnsonLab/FetchGamePhysics/FetchArenaProject/Builds/ObstacleTest/rig_room_Data/Mono/libSystem.dylib
+FetchAgent.Initialize
+TrainingArena FetchAgent.Start
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7383348 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7393539 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7309821 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7390925 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7355638 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7387691 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7375666 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7388145 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7392197 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7350765 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7353724 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7394177 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7384194 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7394765 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7394961 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7375337 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7363674 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.7361565 is within ball_fetched_threshold distance 0.7397976
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.6509268 is within ball_fetched_threshold distance 0.6510219
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.6503868 is within ball_fetched_threshold distance 0.6510219
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.6444774 is within ball_fetched_threshold distance 0.6510219
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.6492661 is within ball_fetched_threshold distance 0.6510219
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.6499791 is within ball_fetched_threshold distance 0.6510219
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.6460303 is within ball_fetched_threshold distance 0.6510219
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.649123 is within ball_fetched_threshold distance 0.6510219
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.6445616 is within ball_fetched_threshold distance 0.6510219
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.6478573 is within ball_fetched_threshold distance 0.6510219
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.5286943 is within ball_fetched_threshold distance 0.5326543
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.5311137 is within ball_fetched_threshold distance 0.5326543
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.5246431 is within ball_fetched_threshold distance 0.5326543
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.5239061 is within ball_fetched_threshold distance 0.5326543
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.5322617 is within ball_fetched_threshold distance 0.5326543
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.531521 is within ball_fetched_threshold distance 0.5326543
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.5325921 is within ball_fetched_threshold distance 0.5326543
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.5278944 is within ball_fetched_threshold distance 0.5326543
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.5265819 is within ball_fetched_threshold distance 0.5326543
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.5269457 is within ball_fetched_threshold distance 0.5326543
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.5323555 is within ball_fetched_threshold distance 0.5326543
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.5302936 is within ball_fetched_threshold distance 0.5326543
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.5306289 is within ball_fetched_threshold distance 0.5326543
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.5316814 is within ball_fetched_threshold distance 0.5326543
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.5292752 is within ball_fetched_threshold distance 0.5326543
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.5314878 is within ball_fetched_threshold distance 0.5326543
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.5315832 is within ball_fetched_threshold distance 0.5326543
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.5277802 is within ball_fetched_threshold distance 0.5326543
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.5284758 is within ball_fetched_threshold distance 0.5326543
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.5286835 is within ball_fetched_threshold distance 0.5326543
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.5254458 is within ball_fetched_threshold distance 0.5326543
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.5311384 is within ball_fetched_threshold distance 0.5326543
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.5277579 is within ball_fetched_threshold distance 0.5326543
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.5305327 is within ball_fetched_threshold distance 0.5326543
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.5318955 is within ball_fetched_threshold distance 0.5326543
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.5300291 is within ball_fetched_threshold distance 0.5326543
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.5302209 is within ball_fetched_threshold distance 0.5326543
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.5316365 is within ball_fetched_threshold distance 0.5326543
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.5319574 is within ball_fetched_threshold distance 0.5326543
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.4699147 is within ball_fetched_threshold distance 0.4734704
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.4685727 is within ball_fetched_threshold distance 0.4734704
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.4722899 is within ball_fetched_threshold distance 0.4734704
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.4716861 is within ball_fetched_threshold distance 0.4734704
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.4728837 is within ball_fetched_threshold distance 0.4734704
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.468168 is within ball_fetched_threshold distance 0.4734704
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.4730934 is within ball_fetched_threshold distance 0.4734704
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.469318 is within ball_fetched_threshold distance 0.4734704
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.4732645 is within ball_fetched_threshold distance 0.4734704
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.472453 is within ball_fetched_threshold distance 0.4734704
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.4718789 is within ball_fetched_threshold distance 0.4734704
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.469984 is within ball_fetched_threshold distance 0.4734704
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.464449 is within ball_fetched_threshold distance 0.4734704
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.4725446 is within ball_fetched_threshold distance 0.4734704
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.4690656 is within ball_fetched_threshold distance 0.4734704
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.4689273 is within ball_fetched_threshold distance 0.4734704
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.4724706 is within ball_fetched_threshold distance 0.4734704
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.4708214 is within ball_fetched_threshold distance 0.4734704
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.4573118 is within ball_fetched_threshold distance 0.4734704
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.4710661 is within ball_fetched_threshold distance 0.4734704
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena distance 0.4730315 is within ball_fetched_threshold distance 0.4734704
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.4731854 is within ball_fetched_threshold distance 0.4734704
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.4721439 is within ball_fetched_threshold distance 0.4734704
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena distance 0.4732731 is within ball_fetched_threshold distance 0.4734704
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.4654663 is within ball_fetched_threshold distance 0.4734704
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.4679468 is within ball_fetched_threshold distance 0.4734704
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.4586914 is within ball_fetched_threshold distance 0.4734704
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena distance 0.471655 is within ball_fetched_threshold distance 0.4734704
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena distance 0.4713188 is within ball_fetched_threshold distance 0.4734704
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.4725555 is within ball_fetched_threshold distance 0.4734704
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena distance 0.472457 is within ball_fetched_threshold distance 0.4734704
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.4723832 is within ball_fetched_threshold distance 0.4734704
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.472638 is within ball_fetched_threshold distance 0.4734704
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.4677109 is within ball_fetched_threshold distance 0.4734704
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.4710391 is within ball_fetched_threshold distance 0.4734704
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.4725737 is within ball_fetched_threshold distance 0.4734704
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena distance 0.4694921 is within ball_fetched_threshold distance 0.4734704
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.4713996 is within ball_fetched_threshold distance 0.4734704
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3466326 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3453991 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3459817 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3502988 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3486747 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3483087 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3534675 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena distance 0.354065 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3486767 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3533725 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3547178 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3540018 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3523057 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3483124 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3461579 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3497528 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3428305 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3545134 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena distance 0.3512678 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3516558 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3517885 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3537449 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3543457 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.351714 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3541835 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3544258 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena distance 0.3533339 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3523591 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3543808 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena distance 0.3506046 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3527305 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3486191 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3530971 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3518559 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena distance 0.3534686 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3486282 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3535063 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3491181 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3540372 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3483446 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3508435 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3490924 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3508893 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3519011 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3497008 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.353946 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3535328 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.354568 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.331455 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3465742 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3491018 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3540471 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.342185 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3492765 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3550977 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena distance 0.3530802 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.350234 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3550166 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3404908 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3434848 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3459155 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3390217 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3550677 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena distance 0.3529785 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3517897 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3522091 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3547374 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3492973 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3526583 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena distance 0.3448848 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3528996 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.35168 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.3532513 is within ball_fetched_threshold distance 0.3551028
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1472562 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1465586 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1468624 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.14685 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1400809 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1477434 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1463736 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1476269 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1469251 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1456064 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.144496 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1405966 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1398207 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1470995 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1474103 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1456433 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1448351 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1479123 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1477369 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1468079 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1445933 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1402741 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1462487 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1448593 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1448347 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1442091 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1472681 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.146396 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.134674 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1478148 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena distance 0.1479325 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1475005 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1479266 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1457299 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1471268 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1471645 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1466123 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena distance 0.1472339 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena distance 0.1455629 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1455018 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.147948 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1430635 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1474028 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1459442 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1463991 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena distance 0.1470647 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1409255 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1476142 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1471433 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1452366 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1461575 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1460731 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1448085 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1466412 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1454436 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+TrainingArena distance 0.1453153 is within ball_fetched_threshold distance 0.1479595
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+TrainingArena adding collision penalty
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+FetchAgent.OnEpisodeBegin
+Unable to save timers to file C:/Users/kryst/JohnsonLab/FetchGamePhysics/FetchArenaProject/Builds/ObstacleTest/rig_room_Data\ML-Agents\Timers\ThreeRobots_timers.json
+Setting up 8 worker threads for Enlighten.
+  Thread -> id: f114 -> priority: 1 
+  Thread -> id: 2804 -> priority: 1 
+  Thread -> id: a724 -> priority: 1 
+  Thread -> id: 73f0 -> priority: 1 
+  Thread -> id: 8a14 -> priority: 1 
+  Thread -> id: c908 -> priority: 1 
+  Thread -> id: 2ffc -> priority: 1 
+  Thread -> id: f3d0 -> priority: 1 

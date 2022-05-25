@@ -1,0 +1,47 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1653098154",
+        "python_version": "3.9.12 (tags/v3.9.12:b28265d, Mar 23 2022, 23:52:46) [MSC v.1929 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\kryst\\AppData\\Roaming\\Python\\Python39\\Scripts\\mlagents-learn Builds\\MemoryTest\\trainer_config.yaml --run-id MemoryTest01 --force --results-dir Assets\\Results",
+        "mlagents_version": "0.29.0",
+        "mlagents_envs_version": "0.29.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.7.1+cu110",
+        "numpy_version": "1.21.2",
+        "end_time_seconds": "1653098158"
+    },
+    "total": 4.2039102,
+    "count": 1,
+    "self": 2.4796487000000003,
+    "children": {
+        "run_training.setup": {
+            "total": 1.5470818000000002,
+            "count": 1,
+            "self": 1.5470818000000002
+        },
+        "TrainerController.start_learning": {
+            "total": 0.17717969999999994,
+            "count": 1,
+            "self": 0.0004103999999998109,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 0.17675410000000014,
+                    "count": 1,
+                    "self": 0.17675410000000014
+                },
+                "trainer_threads": {
+                    "total": 1.000000000139778e-06,
+                    "count": 1,
+                    "self": 1.000000000139778e-06
+                },
+                "TrainerController._save_models": {
+                    "total": 1.4199999999853219e-05,
+                    "count": 1,
+                    "self": 1.4199999999853219e-05
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "ball_max_angular_velocity": {
+        "lesson_num": 0
+    },
+    "ball_fetched_threshold": {
+        "lesson_num": 0
+    },
+    "maximum_penalty": {
+        "lesson_num": 0
+    },
+    "FetchGamePhysicsMemory": {
+        "checkpoints": [
+            {
+                "steps": 3499998,
+                "file_path": "results\\ppo\\FetchGamePhysicsMemory\\FetchGamePhysicsMemory-3499998.onnx",
+                "reward": 0.9332531976404056,
+                "creation_time": 1653041421.5573528,
+                "auxillary_file_paths": [
+                    "results\\ppo\\FetchGamePhysicsMemory\\FetchGamePhysicsMemory-3499998.pt"
+                ]
+            },
+            {
+                "steps": 3999995,
+                "file_path": "results\\ppo\\FetchGamePhysicsMemory\\FetchGamePhysicsMemory-3999995.onnx",
+                "reward": 0.9169757361765261,
+                "creation_time": 1653042504.389066,
+                "auxillary_file_paths": [
+                    "results\\ppo\\FetchGamePhysicsMemory\\FetchGamePhysicsMemory-3999995.pt"
+                ]
+            },
+            {
+                "steps": 4499992,
+                "file_path": "results\\ppo\\FetchGamePhysicsMemory\\FetchGamePhysicsMemory-4499992.onnx",
+                "reward": 0.9355590201930543,
+                "creation_time": 1653043582.7827044,
+                "auxillary_file_paths": [
+                    "results\\ppo\\FetchGamePhysicsMemory\\FetchGamePhysicsMemory-4499992.pt"
+                ]
+            },
+            {
+                "steps": 4999996,
+                "file_path": "results\\ppo\\FetchGamePhysicsMemory\\FetchGamePhysicsMemory-4999996.onnx",
+                "reward": 0.9384959054213037,
+                "creation_time": 1653044661.4922783,
+                "auxillary_file_paths": [
+                    "results\\ppo\\FetchGamePhysicsMemory\\FetchGamePhysicsMemory-4999996.pt"
+                ]
+            },
+            {
+                "steps": 5000015,
+                "file_path": "results\\ppo\\FetchGamePhysicsMemory\\FetchGamePhysicsMemory-5000015.onnx",
+                "reward": 0.9385169362322122,
+                "creation_time": 1653044661.5322788,
+                "auxillary_file_paths": [
+                    "results\\ppo\\FetchGamePhysicsMemory\\FetchGamePhysicsMemory-5000015.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5000015,
+            "file_path": "results\\ppo\\FetchGamePhysicsMemory.onnx",
+            "reward": 0.9385169362322122,
+            "creation_time": 1653044661.5322788,
+            "auxillary_file_paths": [
+                "results\\ppo\\FetchGamePhysicsMemory\\FetchGamePhysicsMemory-5000015.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

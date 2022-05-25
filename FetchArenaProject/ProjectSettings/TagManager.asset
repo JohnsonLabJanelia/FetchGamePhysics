@@ -5,6 +5,13 @@ TagManager:
   serializedVersion: 2
   tags:
   - robot
+  - Arena
+  - Ball
+  - Boundary
+  - Ramp
+  - Ground
+  - Agent
+  - Obstacle
   layers:
   - Default
   - TransparentFX

@@ -1,0 +1,35 @@
+{
+    "ball_max_angular_velocity": {
+        "lesson_num": 0
+    },
+    "ball_fetched_threshold": {
+        "lesson_num": 0
+    },
+    "FetchGamePhysicsMemory": {
+        "checkpoints": [
+            {
+                "steps": 555731,
+                "file_path": "Assets\\Results\\MemoryTest02\\FetchGamePhysicsMemory\\FetchGamePhysicsMemory-555731.onnx",
+                "reward": 0.9078955039603877,
+                "creation_time": 1653101796.5419056,
+                "auxillary_file_paths": [
+                    "Assets\\Results\\MemoryTest02\\FetchGamePhysicsMemory\\FetchGamePhysicsMemory-555731.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 555731,
+            "file_path": "Assets\\Results\\MemoryTest02\\FetchGamePhysicsMemory.onnx",
+            "reward": 0.9078955039603877,
+            "creation_time": 1653101796.5419056,
+            "auxillary_file_paths": [
+                "Assets\\Results\\MemoryTest02\\FetchGamePhysicsMemory\\FetchGamePhysicsMemory-555731.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
