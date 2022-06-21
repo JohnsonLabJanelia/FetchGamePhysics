@@ -49,7 +49,7 @@ behaviors:
     init_path: null
     keep_checkpoints: 5
     checkpoint_interval: 1000000
-    max_steps: 10000000
+    max_steps: 20000000
     time_horizon: 128
     summary_freq: 10000
     threaded: false
@@ -79,7 +79,7 @@ environment_parameters:
     - value:
         sampler_type: constant
         sampler_parameters:
-          seed: 2175
+          seed: 3508
           value: 0.3
       name: LessonA
       completion_criteria:
@@ -92,7 +92,7 @@ environment_parameters:
     - value:
         sampler_type: constant
         sampler_parameters:
-          seed: 2176
+          seed: 3509
           value: 0.4
       name: LessonB
       completion_criteria:
@@ -105,7 +105,7 @@ environment_parameters:
     - value:
         sampler_type: constant
         sampler_parameters:
-          seed: 2177
+          seed: 3510
           value: 0.5
       name: LessonC
       completion_criteria:
@@ -118,7 +118,7 @@ environment_parameters:
     - value:
         sampler_type: constant
         sampler_parameters:
-          seed: 2178
+          seed: 3511
           value: 0.55
       name: LessonD
       completion_criteria:
@@ -131,7 +131,7 @@ environment_parameters:
     - value:
         sampler_type: constant
         sampler_parameters:
-          seed: 2179
+          seed: 3512
           value: 0.6
       name: LessonE
       completion_criteria:
@@ -144,7 +144,7 @@ environment_parameters:
     - value:
         sampler_type: constant
         sampler_parameters:
-          seed: 2180
+          seed: 3513
           value: 0.65
       name: LessonF
       completion_criteria:
@@ -157,7 +157,7 @@ environment_parameters:
     - value:
         sampler_type: constant
         sampler_parameters:
-          seed: 2181
+          seed: 3514
           value: 0.67
       name: LessonG
       completion_criteria:
@@ -170,7 +170,7 @@ environment_parameters:
     - value:
         sampler_type: constant
         sampler_parameters:
-          seed: 2182
+          seed: 3515
           value: 0.7
       name: LessonFinal
       completion_criteria: null
@@ -179,7 +179,7 @@ environment_parameters:
     - value:
         sampler_type: constant
         sampler_parameters:
-          seed: 2183
+          seed: 3516
           value: 0.25
       name: LessonA
       completion_criteria:
@@ -192,7 +192,7 @@ environment_parameters:
     - value:
         sampler_type: constant
         sampler_parameters:
-          seed: 2184
+          seed: 3517
           value: 0.22
       name: LessonB
       completion_criteria:
@@ -205,7 +205,7 @@ environment_parameters:
     - value:
         sampler_type: constant
         sampler_parameters:
-          seed: 2185
+          seed: 3518
           value: 0.18
       name: LessonC
       completion_criteria:
@@ -218,7 +218,7 @@ environment_parameters:
     - value:
         sampler_type: constant
         sampler_parameters:
-          seed: 2186
+          seed: 3519
           value: 0.16
       name: LessonD
       completion_criteria:
@@ -231,7 +231,7 @@ environment_parameters:
     - value:
         sampler_type: constant
         sampler_parameters:
-          seed: 2187
+          seed: 3520
           value: 0.12
       name: LessonE
       completion_criteria:
@@ -244,7 +244,7 @@ environment_parameters:
     - value:
         sampler_type: constant
         sampler_parameters:
-          seed: 2188
+          seed: 3521
           value: 0.05
       name: LessonF
       completion_criteria:
@@ -257,7 +257,7 @@ environment_parameters:
     - value:
         sampler_type: constant
         sampler_parameters:
-          seed: 2189
+          seed: 3522
           value: 0.025
       name: LessonG
       completion_criteria:
@@ -270,7 +270,7 @@ environment_parameters:
     - value:
         sampler_type: constant
         sampler_parameters:
-          seed: 2190
+          seed: 3523
           value: 0.0
       name: LessonFinal
       completion_criteria: null
@@ -278,8 +278,8 @@ checkpoint_settings:
   run_id: ObstacleTest04
   initialize_from: null
   load_model: false
-  resume: false
-  force: true
+  resume: true
+  force: false
   train_model: false
   inference: false
   results_dir: FetchGamePhysics\FetchArenaProject\Assets\Results

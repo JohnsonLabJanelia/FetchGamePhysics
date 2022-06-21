@@ -14,6 +14,7 @@
     "com.unity.ugui": "1.0.0",
     "org.janelia.easy-ml-agents": "file:C:/Users/kryst/JohnsonLab/janelia-unity-toolkit/org.janelia.easy-ml-agents",
     "org.johnson-lab-janelia.fetch-game-physics-training": "file:C:/Users/kryst/JohnsonLab/FetchGamePhysicsTraining",
+    "org.mujoco": "file:C:/Users/kryst/JohnsonLab/mujoco_src/unity",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",

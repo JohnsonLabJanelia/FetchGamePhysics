@@ -59,3 +59,9 @@ crashlytics-build.properties
 
 # helper function
 sync.sh
+
+# Trained weight files
+Assets/Results
+
+# Unity generated files
+*.meta
