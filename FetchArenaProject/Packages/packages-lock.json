@@ -222,7 +222,7 @@
       "dependencies": {}
     },
     "org.mujoco": {
-      "version": "file:C:/Users/kryst/JohnsonLab/mujoco_src/unity",
+      "version": "file:C:/Users/kryst/JohnsonLab/mujoco/unity",
       "depth": 0,
       "source": "local",
       "dependencies": {}

@@ -61,7 +61,4 @@ crashlytics-build.properties
 sync.sh
 
 # Trained weight files
-Assets/Results
-
-# Unity generated files
-*.meta
+/[Aa]ssets/Results
