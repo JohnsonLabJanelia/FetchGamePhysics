@@ -797,7 +797,7 @@ MonoBehaviour:
   GlobalOptions:
     ImpRatio: 1
     Magnetic: {x: 0, y: 0, z: 0}
-    Wind: {x: 0, y: -0.5, z: 0}
+    Wind: {x: 0, y: 0, z: 0}
     Density: 0
     Viscosity: 0
     OverrideMargin: 0
@@ -2147,7 +2147,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1001319057275761232}
   m_Layer: 0
-  m_Name: Ant
+  m_Name: Walker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
