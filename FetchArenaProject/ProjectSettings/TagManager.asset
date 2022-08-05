@@ -12,6 +12,9 @@ TagManager:
   - Ground
   - Agent
   - Obstacle
+  - Goal
+  - Target
+  - Container
   layers:
   - Default
   - TransparentFX

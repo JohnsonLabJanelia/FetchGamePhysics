@@ -63,6 +63,8 @@ sync.sh
 # Trained weight files
 /[Aa]ssets/Results
 
-
 # Mujoco import generated files
 /[Aa]ssets/Local/
+
+# Mujoco dynamic library files; please do this locally
+/[Aa]ssets/mujoco.dll
